@@ -1,0 +1,9 @@
+{
+  "name": "FreeFlight",
+  "version_number": "1.1.0",
+  "website_url": "",
+  "description": "Free flight toggle (default H, or both thumbsticks on a controller) without debug mode: you stay damageable and loot stays normal. Carry anything, no fall damage on landing, and tow harpooned enemies through the air. Client-side, works on servers.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2360"
+  ]
+}
