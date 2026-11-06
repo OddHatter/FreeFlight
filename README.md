@@ -29,3 +29,7 @@ The file is `BepInEx/config/com.oddhatter.freeflight.cfg`.
 ## Install
 
 In r2modman, go to Settings → Profile → Import local mod, pick `Oddhatter-FreeFlight-<version>.zip`, and set the author to `Oddhatter`.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
